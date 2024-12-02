@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/desktoppc/Documents/opengltest/build",
+  "command": "/usr/bin/c++  -I/home/desktoppc/Documents/opengltest/. -g -std=gnu++11 -o CMakeFiles/Openglearn.dir/main.cpp.o -c /home/desktoppc/Documents/opengltest/main.cpp",
+  "file": "/home/desktoppc/Documents/opengltest/main.cpp"
+},
+{
+  "directory": "/home/desktoppc/Documents/opengltest/build",
+  "command": "/usr/bin/c++  -I/home/desktoppc/Documents/opengltest/. -g -std=gnu++11 -o CMakeFiles/Openglearn.dir/stb_extra.cpp.o -c /home/desktoppc/Documents/opengltest/stb_extra.cpp",
+  "file": "/home/desktoppc/Documents/opengltest/stb_extra.cpp"
+}
+]

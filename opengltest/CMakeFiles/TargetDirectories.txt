@@ -1,0 +1,3 @@
+/home/desktoppc/Documents/opengltest/CMakeFiles/Openglearn.dir
+/home/desktoppc/Documents/opengltest/CMakeFiles/edit_cache.dir
+/home/desktoppc/Documents/opengltest/CMakeFiles/rebuild_cache.dir

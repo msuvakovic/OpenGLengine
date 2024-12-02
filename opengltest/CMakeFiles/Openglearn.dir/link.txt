@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Openglearn.dir/main.cpp.o CMakeFiles/Openglearn.dir/stb_extra.cpp.o -o Openglearn  /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 /usr/lib/x86_64-linux-gnu/libGL.so /usr/local/lib/libglad.a 
